@@ -11,7 +11,7 @@ class Solution:
         # return n**3 + self.sumOfSeries(n-1)
 
         #Python has a default recursion depth limit (usually 1000), 
-        #and your input value 18468 exceeds this limit.
+        #and your input value 18468 exceeds this limit therefore wnet for iterative.
         
         # Iterative approach 
         # total_sum = 0
